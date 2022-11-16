@@ -1,6 +1,5 @@
 # TO-DO-APP
 A To Do App using Html, Css, Javascript.
-### Tech Used
 
 
 <p align="left">
